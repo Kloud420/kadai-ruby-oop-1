@@ -22,7 +22,7 @@ end
 
 # インスタンスの生成と、変数への代入
 giants = Team.new('Giants', 67, 45, 8)
-tigers = Team.new('Tigers', 67, 45, 8)
+tigers = Team.new('Tigers', 60, 53, 7)
 dragons = Team.new('Dragons', 60, 55, 5)
 baystars = Team.new('BayStars', 56, 58, 6)
 carp = Team.new('Carp', 52, 56, 12)
